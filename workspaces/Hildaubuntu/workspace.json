@@ -1,6 +1,6 @@
 {
   "friendly_name": "Hildas Ubuntu",
-  "image_src": "ubuntu.png",
+  "image_src": "Hildaubuntu.png",
   "description": "Ubuntu is a Linux distribution based on Debian.",
   "cores": 2,
   "memory": 2768,
