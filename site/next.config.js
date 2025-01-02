@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'Hildas store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://hildev.github.io/kasm-registry/',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://github.com/Hildev/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
