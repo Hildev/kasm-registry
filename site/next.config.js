@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Hildas Kasm Registry',
     description: 'Hildas store for Kasm supported workspaces.',
-    icon: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg',
+    icon: 'https://i.redd.it/0yx2tkapckzd1.png',
     listUrl: 'https://hildev.github.io/kasm-registry/',
     contactUrl: 'https://github.com/Hildev/kasm-registry/issues',
   },
